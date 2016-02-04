@@ -8,4 +8,3 @@ touch ~/.lzchris
 source ~/.lzchris 
 source ~/.profile 
 
-
