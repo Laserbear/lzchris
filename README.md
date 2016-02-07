@@ -9,7 +9,5 @@ echo 'alias lzchris='~/._lzchris' > ~/.profile
  
 touch ~/.lzchris 
 
-source ~/.lzchris
- 
-source ~/.profile 
+put source ~/.lzchris in your startup file 
 
