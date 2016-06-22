@@ -1,5 +1,5 @@
 # lzchris
-Create aliases for "cd &lt;current directory>" quickly
+Create aliases for "cd &lt;directory>" quickly
 
 setup:
 
